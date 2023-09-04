@@ -1,0 +1,11 @@
+.common{
+    font-size: 28px;
+    font-family: Helvetica,'Times New Roman', sans-serif;
+}
+.different1{
+    background-color: black;
+    color: white;
+}
+#different2{
+    background-color: yellow;
+}
